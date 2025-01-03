@@ -1,1 +1,1 @@
-git action 연습해보기
+git action 연습해보기..
